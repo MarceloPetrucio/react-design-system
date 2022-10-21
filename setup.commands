@@ -1,0 +1,8 @@
+
+npm i -d tailwindcss postcss autoprefixer  
+npx tailwindcss init -p
+
+npx sb init --builder @storybook/builder-vite --use-npm
+npm run storybook
+
+npm i @radix-ui/react-slot 
