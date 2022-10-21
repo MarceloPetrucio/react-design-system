@@ -6,3 +6,16 @@ npx sb init --builder @storybook/builder-vite --use-npm
 npm run storybook
 
 npm i @radix-ui/react-slot 
+
+
+
+
+sites
+  - https://storybook.js.org/addons/@storybook/addon-a11y
+  - https://storybook.js.org/addons/@storybook/addon-interactions
+  - https://transform.tools/
+  - https://mswjs.io/
+  - https://github.com/mswjs/msw-storybook-addon
+
+Theme vs code
+  - Min Theme
